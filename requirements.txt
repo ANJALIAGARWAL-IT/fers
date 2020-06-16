@@ -6,5 +6,5 @@ Werkzeug==0.15.5
 numpy>=1.18.5
 tensorflow == 1.14
 keras == 2.3.1
-opencv-python == 4.2.0.34
+opencv-python-headless == 4.2.0.34
 flask == 1.1.2

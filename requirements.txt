@@ -4,7 +4,7 @@ Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 numpy>=1.18.5
-tensorflow == 1.14
+tensorflow == 2.7.2
 keras == 2.3.1
 opencv-python-headless == 4.2.0.34
 flask == 1.1.2
